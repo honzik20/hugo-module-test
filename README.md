@@ -1,0 +1,1 @@
+Contains assets to import into a Hugo module.
