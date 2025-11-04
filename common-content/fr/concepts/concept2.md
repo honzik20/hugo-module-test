@@ -1,5 +1,5 @@
 ---
-title: Concept2 (module, weight 30)
+title: Concept2 (FR, module, weight 20)
 weight: 30
 ---
 
